@@ -6,8 +6,9 @@ namespace ConsoleApp16
     {
         static void Main(string[] args)
         {
-            int v;
-            Console.WriteLine("jdhfk");
+            //this is my first program
+            Console.WriteLine("this is the first project");
+            Console.ReadKey();
         }
     }
 }
